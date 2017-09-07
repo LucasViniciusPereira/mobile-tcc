@@ -3,147 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\2314\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_68072fd291e15397a22bcf96268f3fc66d499d17.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\b36c55b0589ddc9320d73f8526b3fe6095b19aa2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51b483225b609865b63430173558778e0e1324f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\9a78ab409f3eac6d7516e04b231daa2394816396\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3af507efe356f2fdad05594bdcdb43acfac7f97\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\725d8a2f743befdceaab25694e29cd991fc28394\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_b9e686556e3ca22e3e5ac00951cb7df8f99749f8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\725d8a2f743befdceaab25694e29cd991fc28394\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9e686556e3ca22e3e5ac00951cb7df8f99749f8\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\9a78ab409f3eac6d7516e04b231daa2394816396\output\jars\classes.jar"
+        jar="C:\Users\wilso\.android\build-cache\c9cb96409852a1448c0cfa8c9a08329d0d5cd3a8\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_f3af507efe356f2fdad05594bdcdb43acfac7f97.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\0fd1cd701987defe54151dc6adadfa7b7cd6348f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_582dfda1e6fc1371551f5d5521da1635edffb467\classes.dex" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_aed5e4f1d71c6291c521dffb1ff620c180cf1906.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\b36c55b0589ddc9320d73f8526b3fe6095b19aa2\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_51b483225b609865b63430173558778e0e1324f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\0fd1cd701987defe54151dc6adadfa7b7cd6348f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_582dfda1e6fc1371551f5d5521da1635edffb467.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\96edb71571cdbaef81987325f43ffca507e08e5e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fdf396879a7d45b3e00d162f976d175ec2a6a1e\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\96edb71571cdbaef81987325f43ffca507e08e5e\output\jars\classes.jar"
+        jar="C:\Users\wilso\.android\build-cache\71cab50162c291644e682c4bbc89c35dbfef3dc3\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_4fdf396879a7d45b3e00d162f976d175ec2a6a1e.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\4dbf10e91a3e2ce126317bb381ae8de4814e4235\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3eaeb5fd7d3f81eb189c7c1533cc3ab0a0de91d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_68072fd291e15397a22bcf96268f3fc66d499d17\classes.dex" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_b2434316083bd07b28d8ce30e4893fca64ea660a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\ce01411a9eeabbc122300e0c1b8c06972ebbfdfc\output\jars\classes.jar"
+        jar="C:\Users\wilso\.android\build-cache\db64001617b787b5a54464017fa75b1dc1a9e6ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_fe6b75fe6e495a3e496c3f9fedccb9d9f60ed408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wilso\.android\build-cache\53c89093092cb179ee93ceed5d98b0631acf9498\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_c06e0a5f6f07548bae3e05a97be37418347c6c3e.jar" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_25edcb9af1dc51dfea7228ce1bc2e276fe7c1fe9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\2314\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\wilso\.android\build-cache\8b0f55c07d44bc347406bde2cb10576778899b18\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_9748eb4e3bcbae826da6981ba1018a9a0f8736a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\ce01411a9eeabbc122300e0c1b8c06972ebbfdfc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c06e0a5f6f07548bae3e05a97be37418347c6c3e\classes.dex" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_c5c8d7361e7a3c97d60a3f4192e3904947f43382.jar" />
     </item>
     <item
         is-multidex="true"
@@ -156,39 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\46fad5c34617b2cc699c816565e44cb09e3951b0\output\jars\classes.jar"
+        jar="C:\Users\wilso\.android\build-cache\cf478b07e05c565880cfff8b6da9b855c25ba49f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_f711aefff68761d6a12295abd83cffd2f36a19c9.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\46fad5c34617b2cc699c816565e44cb09e3951b0\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f711aefff68761d6a12295abd83cffd2f36a19c9\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_22804c73792e5521573fade5dc46c5ebaae27539.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jar="C:\Users\wilso\.android\build-cache\4fde0bb6481cab213c392fb145f0795c46e33d45\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_9748eb4e3bcbae826da6981ba1018a9a0f8736a5.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\77a7eda1646515c1a06e6005c97cdfe89e727ca3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcae6e9e71590b0952727ef0002571451722853b\classes.dex" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_adea214daeab52159b54e61962a2dc0acaee9060.jar" />
     </item>
     <item
         is-multidex="true"
@@ -201,39 +84,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\d581f2aff9376deef2ffd4ff031e6f8926b1313a\output\jars\classes.jar"
+        jar="C:\Users\wilso\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_f39ea9822613596d7f348e8780ee94398bd622d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wilso\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_0aef757219db6ac80a83d049cf012154c1712ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wilso\.android\build-cache\4705ad70c45f84f75c68ed7dbed483836e6cc2fa\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_fec6b7e4b0b36d99a3525ceac2ac747a0f44303b.jar" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_4effc3080b5eb4a4502807869cc815dc479726f5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\4dbf10e91a3e2ce126317bb381ae8de4814e4235\output\jars\classes.jar"
+        jar="C:\Users\wilso\.android\build-cache\833e1a9c896b2ca6370c40bc3f1cfed3c614e228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_e8cb881f1a034423d695d505a22b6e2fb9e3ee94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wilso\.android\build-cache\2180aabc3f3ec23f4a69ca62ce7365fa40302a53\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_3eaeb5fd7d3f81eb189c7c1533cc3ab0a0de91d4.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\2314\.android\build-cache\d581f2aff9376deef2ffd4ff031e6f8926b1313a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fec6b7e4b0b36d99a3525ceac2ac747a0f44303b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\2314\.android\build-cache\77a7eda1646515c1a06e6005c97cdfe89e727ca3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\debug\classes_fcae6e9e71590b0952727ef0002571451722853b.jar" />
+        <dex dex="C:\Desenvolvimento\github\mobile-tcc\app\build\intermediates\pre-dexed\release\classes_a04697557706186f6619a7ce3314491d07eaa57b.jar" />
     </item>
 
 </items>
